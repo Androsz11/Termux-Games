@@ -5,6 +5,9 @@ To install this program type
 
 
 apt install git
+
 git clone https://github.com/Androsz11/Termux-Linux-Games
+
 cd Termux-Linux-Games
+
 bash LTG.sh
