@@ -1,5 +1,5 @@
 # Termux-Linux-Games
-In this you will get Termux/Linux games. The games are Bastet,Pacman,Moon-buggy,Greed,Chessboard,Ninvader,Snake game,Sudoku.
+In this you will get Termux/Linux games. The games are Bastet,Pacman,Moon-buggy,Greed,Ninvader,Snake game,Sudoku.
 
 To install this program type
 
