@@ -6,7 +6,7 @@ To install this program type
 
 apt install git
 
-git clone https://github.com/Androsz11/Termux-Linux-Games
+git clone https://github.com/Androsz11/Termux-Games
 
 cd Termux-Games
 
