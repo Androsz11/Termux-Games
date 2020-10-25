@@ -12,7 +12,6 @@ apt install moon-buggy
 apt install ninvaders
 apt install nsnake
 apt install greed
-apt install cboard
 apt install nudoku
 pkg install nudoku
 figlet LT Games
@@ -32,7 +31,6 @@ echo "moon-buggy for starting Moon-Buggy game"
 echo "ninvaders for starting Ninvaders game"
 echo "nsnake for starting Snake game"
 echo "greed for starting Greed game "
-echo "cboard for starting Chessboard game"
 echo "nudoku for starting Sudoku game"
 echo 
 echo "Hold Ctrl and type Z to stop any running game."
