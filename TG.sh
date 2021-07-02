@@ -16,7 +16,7 @@ apt install greed
 apt install nudoku
 pkg install nudoku
 figlet LT Games
-echo "Scripted by Hritabhas Modak."
+echo "Scripted by HMAndro."
 echo
 echo
 echo
